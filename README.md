@@ -22,14 +22,14 @@
 |**带有删除线的部分表示不适用或已经废弃。**|
 |**目前heroku只支持http1.1，请不要再问是否支持tcp等其他协议。**|
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Cptmacmillan2022007/IX-RXVT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ove520/xxxx.git)
 
 # Xray/V2Ray VLESS
 |**属性**|**值**|
 |:------:|:----:|
 |**地址**|优选IP<br>应用名.heroku.com|
 |**端口**|443|
-|**用户ID**|87b5c352-90d7-4ee1-9d1e-b03231c9fc53<br>**注意：务必使用自己创建的UUID。不要使用本项目中示范的UUID！**|
+|**用户ID**|ad888999-2226-4666-9162-ab85c85241f7<br>**注意：务必使用自己创建的UUID。不要使用本项目中示范的UUID！**|
 |**流控**|n/a|
 |**加密**|none|
 |**传输协议**|ws|
@@ -45,7 +45,7 @@
 |:------:|:----:|
 |**地址**|优选IP<br>应用名.heroku.com|
 |**端口**|443|
-|**用户ID**|87b5c352-90d7-4ee1-9d1e-b03231c9fc53<br>**注意：务必使用自己创建的UUID。不要使用本项目中示范的UUID！**|
+|**用户ID**|ad888999-2226-4666-9162-ab85c85241f7<br>**注意：务必使用自己创建的UUID。不要使用本项目中示范的UUID！**|
 |**流控**|n/a|
 |**加密**|none|
 |**传输协议**|ws|
